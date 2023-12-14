@@ -409,6 +409,7 @@ body {
   font-weight: 400;
   font-family: 'Lato', sans-serif;
   color: #444;
+  background-color: #f5f5dc; 
 }
 
 
@@ -484,10 +485,18 @@ p { margin-top: 0; }
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
-  color: <no value>;
+  color: #3498db;
 }
 a:hover { text-decoration: underline; }
 
+custom_a {
+  text-decoration: none;
+  color: #000000;
+}
+custom_a:hover { 
+  color: #808080;
+  text-decoration: underline; 
+}
 
 /* #Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -591,7 +600,7 @@ blockquote {
   margin: 1.75em 0 1.75em 0;
   padding: 0 1em 0 1em;
   border-left:0.4em solid;
-  border-left-color: <no value>;
+  border-left-color: #3498db;
 }
 
 @media (min-width: 55rem) {
@@ -599,7 +608,7 @@ blockquote {
     margin: 1.75em -2em 1.75em -2em;
     padding: 0 1.5em 0 1.5em;
     border-right:0.4em solid;
-    border-right-color: <no value>;
+    border-right-color: #3498db;
   }
 }
 
@@ -620,7 +629,7 @@ blockquote cite a {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bar a { color: #777; }
 .bar a:hover {
-  color: <no value>;
+  color: #3498db;
   text-decoration: none;
 }
 .bar ul {
@@ -646,6 +655,11 @@ blockquote cite a {
 .next-post {
   display: block;
   text-align: right;
+}
+.c-next-post {
+  display: block;
+  text-align: center;
+  font-size: 16px;
 }
 .prev-post {
   display: block;
@@ -709,7 +723,7 @@ hr {
   margin-bottom: 1rem;
   margin-left:0;
   width: 24rem;
-  border-top: 2px solid <no value>;
+  border-top: 2px solid #3498db;
 }
 
 img {
@@ -729,6 +743,7 @@ article img {
 .icon-text {
   top: .13em;
 }
+
 .icon-social {
   width: 3rem;
   height: 3rem;

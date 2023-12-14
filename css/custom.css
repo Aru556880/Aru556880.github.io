@@ -1,0 +1,15 @@
+.highlight {
+  background-color: #3498db; /* 長方形背景的顏色 */
+  color: #fff; /* 文字顏色 */
+  padding: 8px 8px; /* 調整 padding 以增加長方形的大小 */
+  border-radius: 4px; /* 圓角 */
+}
+.show-more-link {
+    color: #ff0000; /* 这里使用你想要的颜色值 */
+    /* 这里可以添加其他样式，比如字体大小、字体样式等 */
+}
+
+.show-more-link:hover {
+    /* 鼠标悬停时的样式，可以添加不同的颜色或其他效果 */
+    color: #00ff00; /* 这里使用你想要的颜色值 */
+}
