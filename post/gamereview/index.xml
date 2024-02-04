@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Review on Aru&#39;s site</title>
+    <link>https://Aru556880.github.io/post/gamereview/</link>
+    <description>Recent content in Game Review on Aru&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Shih-Chieh Liao</copyright>
+    <lastBuildDate>Sat, 24 Jun 2017 18:57:12 +0700</lastBuildDate>
+    <atom:link href="https://Aru556880.github.io/post/gamereview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do you Know that everything is fake?</title>
+      <link>https://Aru556880.github.io/post/gamereview/review3/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://Aru556880.github.io/post/gamereview/review3/</guid>
+      <description>Hi, test.</description>
+    </item>
+    <item>
+      <title>review1?</title>
+      <link>https://Aru556880.github.io/post/gamereview/review1/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://Aru556880.github.io/post/gamereview/review1/</guid>
+      <description>Hi, teest.</description>
+    </item>
+    <item>
+      <title>review2?</title>
+      <link>https://Aru556880.github.io/post/gamereview/review2/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://Aru556880.github.io/post/gamereview/review2/</guid>
+      <description>Hi, test.</description>
+    </item>
+    <item>
+      <title>review4?</title>
+      <link>https://Aru556880.github.io/post/gamereview/review4/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://Aru556880.github.io/post/gamereview/review4/</guid>
+      <description>Hi, test.</description>
+    </item>
+  </channel>
+</rss>
